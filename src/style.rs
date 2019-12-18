@@ -1,5 +1,5 @@
 use std::hash::{Hash, Hasher};
-use stretch::{geometry.style};
+use stretch::{geometry,style};
 
 /// ['节点']的外观
 /// 
